@@ -42,6 +42,7 @@ public  abstract class BaseFragment extends Fragment {
 
     public void initData() {
 
+
     }
     //刷新
     @Override
