@@ -1,1 +1,1 @@
-include ':app', ':xutils', ':xUtils3-master', ':JieCaoVideoPlayer-develop', ':jcvideoplayer-lib', ':PhotoView-master'
+include ':app', ':xutils', ':xUtils3-master', ':JieCaoVideoPlayer-develop', ':jcvideoplayer-lib', ':PhotoView-master', ':Android-MaterialRefreshLayout-master', ':MaterialRefresh_library'
